@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'hw1a' target in the 'hw1a' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
