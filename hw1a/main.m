@@ -28,6 +28,8 @@ int main(int argc, const char * argv[])
         
         NSLog(@" %@ represents current date and time ", [NSDate date]);
         
+        // completed assmnt1
+        
         
     }
     return 0;
